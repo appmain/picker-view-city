@@ -7,3 +7,5 @@
 </view>
 <navigator class="link" hover-class="link-hover" url="../address_multi/address_multi">picker版</navigator>
 <navigator class="link" hover-class="link-hover" url="../address_single/address_single">picker-view版</navigator>
+<view style="height:10px;"></view>
+<navigator class="link" hover-class="link-hover" url="../date/date">日期</navigator>
